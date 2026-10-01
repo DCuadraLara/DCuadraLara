@@ -1,16 +1,18 @@
-## Hi there 👋
 
-<!--
-**DCuadraLara/DCuadraLara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey there! 👋
 
-Here are some ideas to get you started:
+I'm David, a Backend Java Developer based in Málaga, Spain.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I come from the 3D design world, so creativity is a big part of how I approach development.
+
+I enjoy writing clean code, organizing projects, and building maintainable architectures.
+I'm constantly working hard to improve my skills and become a better developer.
+
+My main stack is Java, while I'm currently learning Spring Boot, Swing, SQL, and Git.
+I also enjoy experimenting with Linux, databases, and backend development.
+
+Fun Facts:
+
+ - I love coffee, who not?
+ - I need coffee, yes I need it.
+ - Hobbies: Read, Films, Gym, Create things.
