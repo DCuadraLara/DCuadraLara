@@ -14,5 +14,5 @@ I also enjoy experimenting with Linux, databases, and backend development.
 Fun Facts:
 
  - I love coffee, who not?
- - I need coffee, yes I need it.
+   
  - Hobbies: Read, Films, Gym, Create things.
