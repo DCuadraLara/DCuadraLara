@@ -104,15 +104,6 @@ My background in **3D design** brings a visual perspective to the software I bui
   </picture>
 </p>
 
-<!-- SPACE SHOOTER: remove the comment markers below once space-shooter.gif exists. -->
-<details>
-  <summary>🚀 Play the space shooter animation</summary>
-
-  <p align="center">
-    <img src="./space-shooter.gif" alt="A retro spaceship battling through my contribution calendar" width="100%" />
-  </p>
-</details>
-
 ## Connect with me
 
 <p align="center">
