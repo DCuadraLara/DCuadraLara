@@ -105,7 +105,6 @@ My background in **3D design** brings a visual perspective to the software I bui
 </p>
 
 <!-- SPACE SHOOTER: remove the comment markers below once space-shooter.gif exists. -->
-<!--
 <details>
   <summary>🚀 Play the space shooter animation</summary>
 
@@ -113,7 +112,6 @@ My background in **3D design** brings a visual perspective to the software I bui
     <img src="./space-shooter.gif" alt="A retro spaceship battling through my contribution calendar" width="100%" />
   </p>
 </details>
--->
 
 ## Connect with me
 
@@ -123,7 +121,7 @@ My background in **3D design** brings a visual perspective to the software I bui
   </a>
 </p>
 
-<!-- CONTACT: -->
+<!-- CONTACT:-->
 <p align="center">
   <a href="https://www.linkedin.com/in/david-cuadra-lara/">
     <img src="https://img.shields.io/badge/LinkedIn-Let%27s_connect-0A66C2?style=for-the-badge" alt="Connect with David on LinkedIn" />
@@ -132,7 +130,6 @@ My background in **3D design** brings a visual perspective to the software I bui
     <img src="https://img.shields.io/badge/Email-Get_in_touch-7C3AED?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email David" />
   </a>
 </p>
-
 
 <p align="center">
   <sub>Outside of code: 3D design, reading, films, training and creating things.</sub>
