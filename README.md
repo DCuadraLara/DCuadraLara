@@ -16,3 +16,14 @@ Fun Facts:
  - I love coffee, who not?
    
  - Hobbies: Read, Films, Gym, Create things.
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/DCuadraLara/DCuadraLara/output/github-snake-dark.svg"
+  />
+  <img
+    alt="Snake de mis contribuciones"
+    src="https://raw.githubusercontent.com/DCuadraLara/DCuadraLara/output/github-snake.svg"
+  />
+</picture>
