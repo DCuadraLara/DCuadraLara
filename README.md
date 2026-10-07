@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header-preview.svg" alt="David Cuadra Lara — Java backend development" width="100%" />
+  <img src="./assets/header.svg" alt="David Cuadra Lara — Java backend development" width="100%" />
 </p>
 
 <p align="center">
