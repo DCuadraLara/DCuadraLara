@@ -79,7 +79,7 @@ My background in **3D design** brings a visual perspective to the software I bui
 | Project | What I'm building | Technologies | Status |
 | --- | --- | --- | --- |
 | **[Inventory Management](https://github.com/DCuadraLara/inventory-management)** | Academic application for entering inventory items, with form validation and visual feedback on invalid fields. | Java · Swing · NetBeans · Ant | Published academic project |
-| **WorkFinder** | Personal application for tracking job and internship applications, their status and related notes. | Java · JavaFX · Maven | In development |
+| **WorkFinder (https://github.com/DCuadraLara/WorkFinder)** | Desktop application for organizing job and internship applications. | Java · JavaFX · Maven · SQLite | Phase 4 |
 
 <!-- Add a link to WorkFinder once its public repository is available. -->
 
